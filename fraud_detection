@@ -1,0 +1,25 @@
+[33mcommit 5160bb5895c17e548b794ae4690b53a91abf223e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Ashok_750098 <ashoksinghb04@gmail.com>
+Date:   Tue Sep 12 09:14:57 2023 +0530
+
+    Revert "added a new function4"
+    
+    This reverts commit 06ead32a04153be66890f81b96ea395c05243a53.
+
+[33mcommit 06ead32a04153be66890f81b96ea395c05243a53[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: Ashok_750098 <ashoksinghb04@gmail.com>
+Date:   Tue Sep 12 09:10:58 2023 +0530
+
+    added a new function4
+
+[33mcommit bbb0bd8362734951f18817a509d659cd08ff8c09[m
+Author: Ashok_750098 <ashoksinghb04@gmail.com>
+Date:   Tue Sep 12 08:28:06 2023 +0530
+
+    adding data processing python code
+
+[33mcommit aaaf6e4884269a05076965c96104f6eae806eb22[m
+Author: Ashok_750098 <ashoksinghb04@gmail.com>
+Date:   Tue Sep 12 07:31:24 2023 +0530
+
+    first commit adding readme file
